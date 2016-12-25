@@ -1,2 +1,2 @@
 # Testing
-Branch is for all learning related projects
+Branch is for all projects related to learning,
